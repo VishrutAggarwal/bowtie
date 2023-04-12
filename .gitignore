@@ -1,6 +1,10 @@
 /TODO*
 bowtie-report.html
+<<<<<<< HEAD
 badges.json
+=======
+/badges/
+>>>>>>> 3d3e50dbe0aa241686561eb6650e192e8c370b7b
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
